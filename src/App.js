@@ -8,12 +8,12 @@ import News from "./components/News";
 function App() {
   return (
     <div>
-      <Header />
-      <Banner />
-      <Experts />
-      <News />
-      <Card />
-      <Footer />
+      <Header/>
+      <Banner/>
+      <Experts/>
+      <News/>
+      <Card/>
+      <Footer/>
     </div>
   );
 }
